@@ -1,4 +1,7 @@
 # Spotify Data Analysis with Power BI
+
+![](image.png)
+
 ## 📊 Project Overview
 This Power BI dashboard provides comprehensive analysis of Spotify music data, offering insights into artist performance, song popularity, and music trends across different time periods and categories.
 
